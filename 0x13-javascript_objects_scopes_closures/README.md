@@ -1,4 +1,4 @@
-# Javascript - Objects, Scopes and and Closures
+# Javascript - Objects, Scopes and Closures
 
 ## Function Prototypes :floppy_disk:
 
@@ -73,7 +73,7 @@ Prototypes for functions written in this project:
   * [100-map.js](./100-map.js): JavaScript script that imports an array and creates
   a new array with each value equal to the value of initial list times the index of
   the new list.
-  * Prints both the initial and new list.
+  * Prints the initial and new list.
 
 * **12. Sorted occurences**
   * [101-sorted.js](./101-sorted.js): JavaScript script that imports a dictionary
