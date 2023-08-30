@@ -3,7 +3,12 @@
 
 
 def find_peak(list_of_integers):
+<<<<<<< HEAD
     """Finds a peak in list_of_integers"""
+=======
+    """Finds a peak in list_of_integers
+    """
+>>>>>>> b71d8970155fa56a7a833ce6fdfdd371478d7ad1
 
     if list_of_integers is None or list_of_integers == []:
         return None
